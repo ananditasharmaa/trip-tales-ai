@@ -1,5 +1,23 @@
+# Travel Planner AI
 
+## Features
 
-# trip-tales-ai
-Triptales AI: Travel Recommendations tailored to your preferences
->>>>>>> 87cca8edc5db91b61ffb54adc8bbb6474e639c32
+### Trip Creation
+Create and customize your trips with destination options.
+
+### AI-Powered Recommendations
+Get intelligent recommendations for places to visit, hotels, and activities.
+
+## Tech Stack
+
+### Frontend
+- React
+- TailwindCSS
+- Vite
+
+### Backend
+- Firebase (for database and authentication)
+
+### Deployment
+- GitHub
+- Vercel
